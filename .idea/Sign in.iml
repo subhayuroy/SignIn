@@ -4,5 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Login &amp; Rwgistration Form" />
+    <orderEntry type="module" module-name="Animated_Login_Form" />
   </component>
 </module>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Animated_Login_Form/.idea/Animated_Login_Form.iml" filepath="$PROJECT_DIR$/../Animated_Login_Form/.idea/Animated_Login_Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Login &amp; Registration Form/.idea/Login &amp; Rwgistration Form.iml" filepath="$PROJECT_DIR$/../Login &amp; Registration Form/.idea/Login &amp; Rwgistration Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Sign in.iml" filepath="$PROJECT_DIR$/.idea/Sign in.iml" />
     </modules>
   </component>
